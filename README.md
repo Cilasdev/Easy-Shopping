@@ -10,8 +10,8 @@
   <br>
   <br>  
   <p>Desktop</p>
-  <img src="https://github.com/Cilasdev/Easy-Shopping/blob/master/img/Easy%20shop%20desktop.jpg?raw=true"/>
+  <img src="https://github.com/Cilasdev/Repositorio/blob/master/img/Easy%20shop%20desktop.jpg?raw=true"/>
   <br>
   <br>
   <p>Mobile</p>
-  <img src="https://github.com/Cilasdev/Easy-Shopping/blob/master/img/Easy%20shop%20mobile.jpg?raw=true"/>
+  <img src="https://github.com/Cilasdev/Repositorio/blob/master/img/Easy%20shop%20mobile.jpg?raw=true"/>
